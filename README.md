@@ -83,5 +83,5 @@ e.g.pointpillars_hv_secfpn_8xb6-160e_kitti-3d-car.py
 
 step2:
 ```
-![figure_1](https://github.com/memory009/mmdetection3d-1.1.1/figure/detect360.png)
+![figure_1](https://github.com/memory009/mmdetection3d-1.1.1/blob/main/figure/detect360.png)
 ```
